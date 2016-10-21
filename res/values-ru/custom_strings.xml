@@ -97,7 +97,7 @@
     <string name="double_tap_sleep_anywhere_summary">Дважды коснитесь экрана блокировки, чтобы перевести устройство в спящий режим</string>
     <!-- Lockscreen clock fonts -->
     <string name="lock_clock_font_title">Шрифт часов на экране блокировки</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
+    <string name="lock_clock_font_summary">Сменить стандартный шрифт часов на экране блокировки</string>
     <string name="lock_clock_font_normal">Roboto</string>
     <string name="lock_clock_font_bold">Roboto Bold</string>
     <string name="lock_clock_font_italic">Roboto Italic</string>
@@ -206,12 +206,12 @@
     <string name="show_carrier_statusbar">Только в статусбаре</string>
     <string name="show_carrier_enabled">Локскрин &amp; статусбар</string>
     <!-- Clock settings -->
-    <string name="clock_settings_title">Clock settings</string>
-    <string name="clock_settings_summary">Custom clock and date options</string>
+    <string name="clock_settings_title">Часы</string>
+    <string name="clock_settings_summary">Настройки отображения часов</string>
     <!-- clock date options -->
     <string name="clock_title_enable">Положение</string>
     <string name="status_bar_show_clock_title">Показать часы и дату</string>
-    <string name="status_bar_clock_seconds_title">Show seconds</string>
+    <string name="status_bar_clock_seconds_title">Показывать секунды</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
     <string name="status_bar_am_pm_info">24-часовой формат</string>
     <string name="right_clock">Справа</string>
@@ -231,7 +231,10 @@
     <string name="clock_date_style_lowercase">Нижний регистр</string>
     <string name="clock_date_style_uppercase">Верхний регистр</string>
     <string name="clock_date_format_custom">Свой java формат</string>
-    <!-- Network traffic Settings -->
+      <!-- double tap statusbar to sleep -->
+    <string name="double_tap_to_sleep_title">Двойной тап для блокировки</string>
+    <string name="double_tap_to_sleep_summary">Двойной тап по статус бару для блокировки экрана</string>
+     <!-- Network traffic Settings -->
     <string name="nettraffic_settings_title">Индикатор трафика</string>
     <string name="nettraffic_settings_summary">Настройки индикатора трафика</string>
     <!-- Network traffic options -->
